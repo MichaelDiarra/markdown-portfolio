@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*As illustrated by his professional certifications and experience, Michael's skills are multi-dimensional and cover not only **regulatory compliance**, **financial reporting**, **operational risk management**, and **audit**, but also technology risk management. This allows him to effectively build relationships and create the communication needed to be effective within a diverse group of business partners managing risk as a team.*
